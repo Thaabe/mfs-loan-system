@@ -470,7 +470,7 @@ input:focus, select:focus {
   align-items: center;
 }
 
-/* Current Loan Amount - highlight from image */
+
 .current-loan {
   background: linear-gradient(135deg, #1a2639, #121722);
   padding: 24px;
@@ -492,7 +492,7 @@ input:focus, select:focus {
   letter-spacing: 1px;
 }
 
-/* Activity items from image */
+
 .activity-item {
   display: flex;
   justify-content: space-between;
